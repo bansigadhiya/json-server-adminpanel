@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "bansi",
+      "gender": "female",
+      "email": "b@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "pooja",
+      "gender": "female",
+      "email": "p@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "shd",
+      "gender": "female",
+      "email": "sdc@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "hgvckk",
+      "price": "30000",
+      "detail": "gsd",
+      "category": "hsdg",
+      "dateDay": "4/25/2023, 6:01:47 PM",
+      "id": 1
+    },
+    {
+      "name": "dhgc",
+      "price": "20000",
+      "detail": "sdh",
+      "category": "hgdc",
+      "dateDay": "4/25/2023, 6:02:03 PM",
+      "id": 2
+    },
+    {
+      "name": "sdgs",
+      "price": "50000",
+      "detail": "hsdg",
+      "category": "aksu",
+      "dateDay": "4/25/2023, 6:02:20 PM",
+      "id": 3
+    },
+    {
+      "name": "jdhfv",
+      "price": "20000",
+      "detail": "jshm",
+      "category": "jdhv",
+      "dateDay": "4/26/2023, 2:14:10 PM",
+      "id": 5
+    }
+  ]
+}
